@@ -1,0 +1,9 @@
+@article{REPO332,
+    author = "Duan, Jiahui and He, Zhenan and Yen, Gary G.",
+    journal = "IEEE Transactions on Cybernetics",
+    number = "8",
+    pages = "8300-8314",
+    title = "{Robust Multiobjective Optimization for Vehicle Routing Problem With Time Windows}",
+    volume = "52",
+    year = "2022"
+}
